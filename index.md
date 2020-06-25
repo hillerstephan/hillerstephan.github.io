@@ -19,3 +19,9 @@ Besondere Bedeutung für die Kriminalliteratur erlangten Doyles Werke durch die 
 * Sherlock Holmes (2009), US-Film
 * Sherlock Holmes (2010), US-amerikanische Produktion von The Asylum
 * Sherlock Holmes: Spiel im Schatten, 2011, Fortsetzung zum Film aus dem Jahr 2009
+
+## Zitate
+
+Wie Sherlock immer sagt:
+> Wenn man alle logischen Lösungen eines Problems eliminiert, 
+> ist die unlogische obwohl unmöglich unweigerlich richtig.
