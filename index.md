@@ -25,3 +25,7 @@ Besondere Bedeutung für die Kriminalliteratur erlangten Doyles Werke durch die 
 Wie Sherlock immer sagt:
 > Wenn man alle logischen Lösungen eines Problems eliminiert, 
 > ist die unlogische obwohl unmöglich unweigerlich richtig.
+
+## Bild
+
+<img src="https://cdn.pixabay.com/photo/2013/07/12/13/46/sherlock-holmes-147255_960_720.png"/>
