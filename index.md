@@ -4,7 +4,7 @@ Sherlock Holmes ist eine 1886 vom britischen Schriftsteller Arthur Conan Doyle g
 
 Besondere Bedeutung für die Kriminalliteratur erlangten Doyles Werke durch die beschriebene forensische Arbeitsmethode, die auf detailgenauer Beobachtung und nüchterner Schlussfolgerung beruht. Dabei dient zumeist Holmes Freund und Begleiter Dr. Watson als Chronist der Ermittlungen und Vermittler für die Leser. Holmes gilt bis heute weithin als Symbol des erfolgreichen, analytisch-rationalen Denkers und als Stereotyp des Privatdetektivs. Der Kanon um den Detektiv umfasst 56 Kurzgeschichten und vier Romane. 
 
-## Filme
+## Filme über Sherlock
 
 * Sherlock Holmes Baffled, Stummfilm 1900
 * Arsène Lupin contra Sherlock Holmes, Serial 1910
